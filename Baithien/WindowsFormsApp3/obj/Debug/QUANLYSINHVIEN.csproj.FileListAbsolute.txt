@@ -1,0 +1,14 @@
+E:\Baithien\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Baithien\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Baithien\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Baithien\WindowsFormsApp3\obj\Debug\QUANLYSINHVIEN.csproj.AssemblyReference.cache
+E:\Baithien\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.DangNhap1.resources
+E:\Baithien\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Baithien\WindowsFormsApp3\obj\Debug\QUANLYSINHVIEN.csproj.GenerateResource.cache
+E:\Baithien\WindowsFormsApp3\obj\Debug\QUANLYSINHVIEN.csproj.CoreCompileInputs.cache
+E:\Baithien\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Baithien\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\Baithien\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.GUI.Form1.resources
+E:\Baithien\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.SinhVien.resources
+E:\Baithien\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.GUI.GianVien.resources
+E:\Baithien\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.GUI.NhaTruong.resources
